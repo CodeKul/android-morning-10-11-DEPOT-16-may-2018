@@ -34,13 +34,13 @@ class FourWheeler {
 fun main(args: Array<String>) {
     val cr = Car()
     cr.speedUp()
-    cr.speedUp( alp = 5.6 )
+    cr.speedUp( a )
 
     var fw = FourWheeler()
 
     val gps = object : GpsListener {
         override fun location() {
-            
+
         }
     }
 }
