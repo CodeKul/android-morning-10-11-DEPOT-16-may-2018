@@ -1,1 +1,1 @@
-include ':app', ':applib', ':sample', ':hello', ':lyts', ':intractcom'
+include ':app', ':applib', ':sample', ':hello', ':lyts', ':intractcom', ':vwanm', ':cmpdvw', ':cstmvw', ':adptrvw'
